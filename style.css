@@ -50,7 +50,7 @@ h1, h2, h3, #nav, #nav li {
     border-bottom: 1px solid rgb(255, 255, 255);
 }
 #nav a {
-    background: #970101;
+    background: #cf9118;
     color: #2e3901;
     font-weight: bold;
     text-decoration: none;
@@ -105,7 +105,7 @@ h1 {
 }
 h2 {
     font-size: 10px;
-    color: #970101;
+    color: #cf9118;
     margin: 1em 0;
 }
 h3 {
@@ -130,12 +130,12 @@ img.right { float: right; margin-left: 14px; }
     clear: both;
 }
 a {
-    color: #970101;
+    color: #cf9118;
     font-weight: bold;
     text-decoration: none;
 }
 a:visited {
-    color: #970101;
+    color: #cf9118;
 }
 a:hover {
     text-decoration: underline;
