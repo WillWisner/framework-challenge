@@ -47,7 +47,7 @@ h1, h2, h3, #nav, #nav li {
     width: 78px;
     list-style: none;
     margin-left: 2px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(255, 255, 255);
 }
 #nav a {
     background: #970101;
@@ -71,7 +71,7 @@ h1, h2, h3, #nav, #nav li {
     margin: 5px 5px 5px 0;
 }
 #sidebar .divider {
-    background: url(images/left_splitter.gif) center no-repeat;
+    background: "left_border.jpg" center no-repeat;
     height: 5px;
     width: 169px;
 }
