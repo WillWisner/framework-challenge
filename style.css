@@ -71,7 +71,7 @@ h1, h2, h3, #nav, #nav li {
     margin: 5px 5px 5px 0;
 }
 #sidebar .divider {
-    background: "left_border.jpg" center no-repeat;
+    background: url(images/left_splitter.gif) center no-repeat;
     height: 5px;
     width: 169px;
 }
